@@ -5,3 +5,6 @@ Aplicação com o intúito de fixação e aprendizagem, desenvolvida a partir da
 - Java 11
 - Maven
 
+## Eureka Server
+É o Discovery server, componente de registro das instâncias vindas dos microserviços
+
